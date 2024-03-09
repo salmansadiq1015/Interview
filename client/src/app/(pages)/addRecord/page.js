@@ -140,7 +140,7 @@ export default function AddNewRecord() {
           /> */}
         </div>
       </div>
-      <div className="w-[98%] sm:w-[80%] py-4 px-2 sm:px-4 rounded-md shadow-md border hover:shadow-md shadow-gray-200 flex flex-col gap-4">
+      <div className="w-[98%] sm:w-[80%] mt-[1.5rem] sm:mt-[.5rem] py-4 px-2 sm:px-4 rounded-md shadow-md border hover:shadow-md shadow-gray-200 flex flex-col gap-4">
         <h1 className="text-3xl sm:text-4xl font-semibold text-center ">
           Add New Car Model
         </h1>
